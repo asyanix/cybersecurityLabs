@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// Задание 13
 string encryptionMethod(const string input) {
     string result;
     
